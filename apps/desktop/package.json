@@ -229,6 +229,7 @@
     "nsis": {
       "oneClick": false,
       "allowToChangeInstallationDirectory": true,
+      "include": "build/installer.nsh",
       "shortcutName": "PI-Desktop",
       "artifactName": "PI-Desktop-Setup-${version}.${ext}"
     },
